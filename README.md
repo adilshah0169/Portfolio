@@ -4,6 +4,8 @@ Professional portfolio website for Adil Shah, Software Engineer / .NET Developer
 
 Live URL: https://adilshah0169.github.io/Portfolio/
 
+GitHub Pages serves the production build from the `docs` folder.
+
 ## Local Development
 
 ```bash
